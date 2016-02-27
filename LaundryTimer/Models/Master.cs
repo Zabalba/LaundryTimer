@@ -10,7 +10,7 @@ namespace LaundryTimer
     public partial class Master
     {
         // Added a Comment!
-
+        // Another Comment!
         public int ID { get; set; }
         
         [Required]
